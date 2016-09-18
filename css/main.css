@@ -1142,8 +1142,9 @@ article {
 #event1 {
   background: url('../images/slider1.jpg') no-repeat 50%;
   background-size: cover;
-  background-attachment: scroll;
+  background-attachment: fixed;
   padding: 80px 0;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   text-align: center;
   position: relative;
   color: #fff;
@@ -1151,7 +1152,8 @@ article {
 #event2 {
   background: url('../images/slider.jpg') no-repeat 50%;
   background-size: cover;
-  background-attachment: scroll;
+  background-attachment: fixed;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   padding: 80px 0;
   text-align: center;
   position: relative;
@@ -1160,7 +1162,8 @@ article {
 #event3 {
   background: url('../images/bhangra.png') no-repeat 50%;
   background-size: cover;
-  background-attachment: scroll;
+  background-attachment: fixed;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   padding: 80px 0;
   text-align: center;
   position: relative;
