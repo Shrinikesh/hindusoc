@@ -1149,6 +1149,16 @@ article {
   position: relative;
   color: #fff;
 }
+#event1:before {
+  content: '';
+  z-index: 9;
+  background: rgba(255, 255, 255, 0.78);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
 #event2 {
   background: url('../images/slider.jpg') no-repeat 50%;
   background-size: cover;
@@ -1159,6 +1169,16 @@ article {
   position: relative;
   color: #fff;
 }
+#event2:before {
+  content: '';
+  z-index: 9;
+  background: rgba(255, 255, 255, 0.78);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
 #event3 {
   background: url('../images/bhangra.png') no-repeat 50%;
   background-size: cover;
@@ -1168,4 +1188,14 @@ article {
   text-align: center;
   position: relative;
   color: #fff;
+}
+#event3:before {
+  content: '';
+  z-index: 9;
+  background: rgba(255, 255, 255, 0.78);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
