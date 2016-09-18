@@ -75,7 +75,7 @@ a:hover {
   margin-top: 32px;
 }
 .navbar-header .navbar-brand {
-  padding: 5px 0;
+  padding: 2px 0;
 }
 .navbar-header .navbar-brand a {
   height: auto;
@@ -1175,6 +1175,7 @@ article {
   color: #fff;
   text-transform: uppercase;
 }
+
 .event-header-black {
   font-size: 32px;
   font-weight: bold;
