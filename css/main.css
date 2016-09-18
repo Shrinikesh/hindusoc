@@ -1169,7 +1169,7 @@ article {
   position: relative;
   color: #fff;
 }
-h2.event-header {
+.event-header {
   font-size: 32px;
   font-weight: bold;
   color: #fff;
