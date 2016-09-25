@@ -75,12 +75,12 @@ a:hover {
   margin-top: 32px;
 }
 .navbar-header .navbar-brand {
-  padding: 0px 0;
+  padding: 5px 0;
 }
 .navbar-header .navbar-brand a {
   height: auto;
   display: inline-block;
-  margin-top: 0px;
+  margin-top: 8px;
 }
 .navbar-inverse .navbar-toggle:focus,
 .navbar-inverse .navbar-toggle {
@@ -1139,7 +1139,7 @@ article {
   padding-top: 9px;
 }
 .logo {
-  height: 125px;
+  height: 75px;
 }
 .navbar-toggle {
   padding-top: 10px;
