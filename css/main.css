@@ -229,7 +229,7 @@ a:hover {
   margin-right: 10px;
 }
 #photos {
-  background: #d64902;
+  background: #ff8533;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
@@ -247,6 +247,7 @@ a:hover {
   color: #fff;
 }
 #photos .block p {
+  border-top: 6px #fff;
   font-size: 15px;
   font-weight: 300;
   font-family: 'Roboto', sans-serif;
