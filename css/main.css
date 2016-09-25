@@ -236,6 +236,7 @@ a:hover {
   text-align: center;
   position: relative;
   color: #fff;
+  border-top: 6px #fff;
 }
 #photos .block {
   position: relative;
@@ -247,7 +248,6 @@ a:hover {
   color: #fff;
 }
 #photos .block p {
-  border-top: 6px #fff;
   font-size: 15px;
   font-weight: 300;
   font-family: 'Roboto', sans-serif;
